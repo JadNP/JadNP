@@ -1,7 +1,7 @@
 # about me / status:
 currently a roblox dev
 
-have NOT supported anything to any game
+have NOT contributed anything to any game
 
 # dev ratings:
 - coding: very good
