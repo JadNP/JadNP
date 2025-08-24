@@ -4,11 +4,11 @@ currently a roblox dev
 have NOT contributed anything to any game
 
 # dev ratings:
-- coding: very good
+- coding: very good (only on lua tho 😬)
 - building: ok
 - modeling: decent
 - sounds: decent
-- texturing: hell no
+- texturing: Ummmm idk
 - ui designing: good i think
 
 > [!WARNING]
