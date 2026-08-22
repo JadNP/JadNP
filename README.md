@@ -1,7 +1,7 @@
 # about me / status:
 currently a roblox dev
 
-have NOT contributed anything to any game
+contributed 15M+ visits
 
 # dev ratings:
 - coding: very good (only on lua tho 😬)
